@@ -1,0 +1,11 @@
+name: FortuneCrops
+version: 1.0.0
+main: dev.fortunecrops.FortuneCrops
+api-version: "1.21"
+author: FortuneCrops
+description: Applies the vanilla ore-Fortune algorithm to fully-grown crops.
+
+permissions:
+  fortunecrops.*:
+    description: All FortuneCrops permissions
+    default: op
